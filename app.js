@@ -1,6 +1,5 @@
-// src/App.js
 import React from 'react';
-import WordWeaver from './WordWeaver'; // Assuming WordWeaver is defined in another file
+import WordWeaver from './WordWeaver';
 
 function App() {
   return (
@@ -11,6 +10,3 @@ function App() {
 }
 
 export default App;
-
-
-
